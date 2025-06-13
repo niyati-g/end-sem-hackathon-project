@@ -1,4 +1,4 @@
-# end-sem-hackathon-project
+# ONEFILE
 Project for End Sem Hackathon 2022 (BU)
 
 The Problem:
